@@ -1,25 +1,14 @@
 # 言語的アイデンティティまたは障害者としてのろう者コミュニティ
 
-[11 May 2018 – Deaf Community as linguistic identity or disability – Position Paper](http://wfdeaf.org/news/resources/11-may-2018-deaf-community-linguistic-identity-disability-position-paper/)を翻訳（翻訳中）したものです。
+本書は、「[11 May 2018 – Deaf Community as linguistic identity or disability – Position Paper](http://wfdeaf.org/news/resources/11-may-2018-deaf-community-linguistic-identity-disability-position-paper/)」を翻訳（翻訳中）したものです。
 
-<div style="text-align: center; font-weight:bold; margin:5px">世界ろう連盟（WFD）</div>
-<div style="text-align: center; font-style:italic; margin:5px">フィンランド ヘルシンキ 議会</div>
-<div style="text-align: center; margin:5px">
-国際的な非政府組織<br>
-（COSOC、UNESCO、ILO、WHOおよび欧州理事会との公式連絡）<br>
-（1951年ローマにて設立）
-</div>
+**
+相補的か正反対か？
 
-<div style="text-align: center; font-weight:bold; margin: 5px">
-PO Box 65、00401 Helsinki、FINLAND<br>
-<a href="http://wfdeaf.org/">www.wfdeaf.org</a>
-</div>
-
-<div style="text-align: center; font-weight:bold; border:1px solid; margin: 5px">
-相補的か正反対か？<br>
 「障害者」と「文化的・言語的少数派」で構成された「ろう者コミュニティの位置づけ」
+
 ポジションペーパー（意見書）
-</div>
+**
 
 ## 主要点
 
@@ -36,7 +25,7 @@ PO Box 65、00401 Helsinki、FINLAND<br>
 - 障害は、障害の人権モデルに従って定義されている。人権モデルに先立ち、障害の社会モデルの下では、個々の「障害（impairment）」と、「障害」を生み出す社会の障壁（バリア）との相互作用である。言い換えれば、「障害」自体ではなく不可能にする環境である。
 - 言語的権利は聴覚障害者にとっては重要であり、障害パラダイムの範囲だけで与えられるべきではない。ろう者コミュニティは、障害構造の一部ではなく、言語的権利としての言語的権利を必要とする。
 
-# 序説
+## 序説
 
 
 [^1]: https://www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities.html
