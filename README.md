@@ -2,11 +2,9 @@
 
 本書は、「[11 May 2018 – Deaf Community as linguistic identity or disability – Position Paper](http://wfdeaf.org/news/resources/11-may-2018-deaf-community-linguistic-identity-disability-position-paper/)」を翻訳（翻訳中）したものです。
 
-
- 相補的か正反対か？
- 「障害者」と「文化的・言語的少数派」で構成された「ろう者コミュニティの位置づけ」
- ポジションペーパー（意見書）
-**
+>相補的か正反対か？
+>「障害者」と「文化的・言語的少数派」で構成された「ろう者コミュニティの位置づけ」
+>ポジションペーパー（意見書）
 
 ## 主要点
 
