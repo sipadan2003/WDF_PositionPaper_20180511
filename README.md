@@ -2,18 +2,16 @@
 
 本書は、「[11 May 2018 – Deaf Community as linguistic identity or disability – Position Paper](http://wfdeaf.org/news/resources/11-may-2018-deaf-community-linguistic-identity-disability-position-paper/)」を翻訳（翻訳中）したものです。
 
-**
-相補的か正反対か？
 
-「障害者」と「文化的・言語的少数派」で構成された「ろう者コミュニティの位置づけ」
-
-ポジションペーパー（意見書）
+ 相補的か正反対か？
+ 「障害者」と「文化的・言語的少数派」で構成された「ろう者コミュニティの位置づけ」
+ ポジションペーパー（意見書）
 **
 
 ## 主要点
 
 - ろう者は、自身を言語的・文化的な集団であり、非常に複雑な自然言語を有し、聴覚障害者の権利は障害政策、法律、国際的な手段によって保証されていると考えている。
-- ろう者のアイデンティティはモノリシック（一枚岩）な実体ではなく、性的、人種、障害、社会経済的地位に関連するアイデンティティも含まれる。
+- ろう者のアイデンティティはモノリシック（一枚岩）な実体ではなく、性的、人種、障害、社会経済的地位に関係するアイデンティティも含まれる。
 - 国際レベルでは、国連は次の人権を保証している。
   - 障害者の権利に関する条約（CRPD）
   - 民族、宗教および言語的少数派に属する人の権利に関する民間および政治的権利に関する国際規約（ICCPR）（特に第27条）
@@ -27,10 +25,3 @@
 
 ## 序説
 
-
-[^1]: https://www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities.html
-[^2]: http://www.ohchr.org/en/professionalinterest/pages/ccpr.aspx
-[^3]: http://www.ohchr.org/EN/ProfessionalInterest/Pages/CRC.aspx
-[^4]: http://www.ohchr.org/EN/ProfessionalInterest/Pages/Minorities.aspx
-[^5]: Degener 2016 and Jones 2011.
-[^6]: Baynton, Gannon, & Bergey, 2007 and Lane, 1999.
